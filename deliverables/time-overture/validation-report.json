@@ -1,0 +1,372 @@
+{
+  "source_sha256": "715a1777b299174bf071ca398b62d0f6a3f080f131e1bcee0d3ab3c8d33bd486",
+  "score_parts": 28,
+  "measures_per_part": 106,
+  "schema": "MusicXML 3.0",
+  "schema_valid_files": [
+    "parts/01-soprano-dizi.musicxml",
+    "parts/02-alto-dizi-I-II.musicxml",
+    "parts/03-bass-dizi.musicxml",
+    "parts/04-sheng.musicxml",
+    "parts/05-suona.musicxml",
+    "parts/06-bass-guan.musicxml",
+    "parts/07-yangqin.musicxml",
+    "parts/08-pipa.musicxml",
+    "parts/09-zhongruan.musicxml",
+    "parts/10-guzheng.musicxml",
+    "parts/11-percussion-I-bass-drum.musicxml",
+    "parts/12-percussion-II-triangle-shaker.musicxml",
+    "parts/13-percussion-III-glockenspiel.musicxml",
+    "parts/14-percussion-IV-vibraphone.musicxml",
+    "parts/15-percussion-V-cymbal-gong.musicxml",
+    "parts/16-timpani.musicxml",
+    "parts/17-piano.musicxml",
+    "parts/18-soprano.musicxml",
+    "parts/19-alto.musicxml",
+    "parts/20-tenor.musicxml",
+    "parts/21-bass.musicxml",
+    "parts/22-dual-manual-organ.musicxml",
+    "parts/23-erhu.musicxml",
+    "parts/24-violin-I.musicxml",
+    "parts/25-violin-II.musicxml",
+    "parts/26-viola.musicxml",
+    "parts/27-cello.musicxml",
+    "parts/28-contrabass.musicxml",
+    "time-overture-choir-piano.musicxml",
+    "time-overture-full-score.musicxml",
+    "time-overture-percussion.musicxml",
+    "time-overture-strings.musicxml"
+  ],
+  "choir_preserved": {
+    "P21": "canonical XML unchanged, including lyrics on rests and directions",
+    "P22": "canonical XML unchanged, including lyrics on rests and directions",
+    "P24": "canonical XML unchanged, including lyrics on rests and directions",
+    "P23": "canonical XML unchanged, including lyrics on rests and directions"
+  },
+  "accompaniment": {
+    "P1": {
+      "active_measures": 8,
+      "pitched_or_unpitched_notes": 15,
+      "written_midi_range": [
+        80,
+        91
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P2": {
+      "active_measures": 22,
+      "pitched_or_unpitched_notes": 47,
+      "written_midi_range": [
+        66,
+        84
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P3": {
+      "active_measures": 26,
+      "pitched_or_unpitched_notes": 27,
+      "written_midi_range": [
+        48,
+        62
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P4": {
+      "active_measures": 55,
+      "pitched_or_unpitched_notes": 212,
+      "written_midi_range": [
+        57,
+        74
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P5": {
+      "active_measures": 9,
+      "pitched_or_unpitched_notes": 18,
+      "written_midi_range": [
+        67,
+        81
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P6": {
+      "active_measures": 37,
+      "pitched_or_unpitched_notes": 52,
+      "written_midi_range": [
+        43,
+        54
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P7": {
+      "active_measures": 38,
+      "pitched_or_unpitched_notes": 232,
+      "written_midi_range": [
+        62,
+        87
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P9": {
+      "active_measures": 35,
+      "pitched_or_unpitched_notes": 158,
+      "written_midi_range": [
+        50,
+        67
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P10": {
+      "active_measures": 47,
+      "pitched_or_unpitched_notes": 73,
+      "written_midi_range": [
+        43,
+        54
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P11": {
+      "active_measures": 32,
+      "pitched_or_unpitched_notes": 52,
+      "written_midi_range": [
+        48,
+        79
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P13": {
+      "active_measures": 27,
+      "pitched_or_unpitched_notes": 42,
+      "written_midi_range": null,
+      "rhythm_range_and_ties_valid": true
+    },
+    "P14": {
+      "active_measures": 21,
+      "pitched_or_unpitched_notes": 51,
+      "written_midi_range": null,
+      "rhythm_range_and_ties_valid": true
+    },
+    "P15": {
+      "active_measures": 14,
+      "pitched_or_unpitched_notes": 14,
+      "written_midi_range": [
+        62,
+        76
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P16": {
+      "active_measures": 30,
+      "pitched_or_unpitched_notes": 59,
+      "written_midi_range": [
+        57,
+        79
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P17": {
+      "active_measures": 21,
+      "pitched_or_unpitched_notes": 21,
+      "written_midi_range": null,
+      "rhythm_range_and_ties_valid": true
+    },
+    "P18": {
+      "active_measures": 37,
+      "pitched_or_unpitched_notes": 39,
+      "written_midi_range": [
+        41,
+        52
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P25": {
+      "active_measures": 38,
+      "pitched_or_unpitched_notes": 186,
+      "written_midi_range": [
+        36,
+        72
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P27": {
+      "active_measures": 23,
+      "pitched_or_unpitched_notes": 50,
+      "written_midi_range": [
+        62,
+        74
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P28": {
+      "active_measures": 86,
+      "pitched_or_unpitched_notes": 158,
+      "written_midi_range": [
+        67,
+        91
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P29": {
+      "active_measures": 95,
+      "pitched_or_unpitched_notes": 210,
+      "written_midi_range": [
+        62,
+        75
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P30": {
+      "active_measures": 98,
+      "pitched_or_unpitched_notes": 139,
+      "written_midi_range": [
+        55,
+        71
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P31": {
+      "active_measures": 99,
+      "pitched_or_unpitched_notes": 235,
+      "written_midi_range": [
+        36,
+        58
+      ],
+      "rhythm_range_and_ties_valid": true
+    },
+    "P32": {
+      "active_measures": 94,
+      "pitched_or_unpitched_notes": 121,
+      "written_midi_range": [
+        40,
+        51
+      ],
+      "rhythm_range_and_ties_valid": true
+    }
+  },
+  "parser_import": {
+    "time-overture-full-score.musicxml": {
+      "library": "music21 10.5",
+      "staves": 32,
+      "bars_per_staff": 106,
+      "warnings": 0
+    },
+    "time-overture-percussion.musicxml": {
+      "library": "music21 10.5",
+      "staves": 6,
+      "bars_per_staff": 106,
+      "warnings": 0
+    },
+    "time-overture-choir-piano.musicxml": {
+      "library": "music21 10.5",
+      "staves": 6,
+      "bars_per_staff": 106,
+      "warnings": 0
+    },
+    "time-overture-strings.musicxml": {
+      "library": "music21 10.5",
+      "staves": 6,
+      "bars_per_staff": 106,
+      "warnings": 0
+    }
+  },
+  "limitations": [
+    "未在 Sibelius 或 MuseScore 实际打开；未使用真实音源试听；民族乐器 MIDI 为近似音色。",
+    "原歌词“旗织”按源文件保留。",
+    "男高音原谱的谱号与八度标记保留，导入时按原谱核对播放八度。"
+  ],
+  "new_parts_fermata_onsets_and_durations_match": true,
+  "new_parts_hairpins_balanced_without_overlap": true,
+  "new_multistaff_hand_parts_have_no_duplicate_attacks": true,
+  "new_accompaniment_measures_checked": 2438,
+  "timpani_four_drum_banks": {
+    "1": [
+      "G2",
+      "Bb2",
+      "C3",
+      "D3"
+    ],
+    "40": [
+      "G2",
+      "A2",
+      "C3",
+      "D3"
+    ],
+    "60": [
+      "F2",
+      "A2",
+      "C3",
+      "D3"
+    ],
+    "75": [
+      "A2",
+      "B2",
+      "C3",
+      "E3"
+    ]
+  },
+  "timpani_retuning_rest_windows": [
+    [
+      40,
+      42
+    ],
+    [
+      60,
+      67
+    ],
+    [
+      75,
+      91
+    ]
+  ],
+  "percussion_instrument_change_rests_valid": true,
+  "original_piano_meter_keys_preserved": true,
+  "source_file_unchanged": true,
+  "engraving_check": {
+    "library": "Verovio 6.3",
+    "full_score_import": true,
+    "preview_pages_at_verovio_settings": 16,
+    "first_page_svg_generated": true,
+    "section_previews": [
+      {
+        "excerpt": "young-pulse",
+        "bars": [
+          24,
+          29
+        ],
+        "parts": 7,
+        "verovio_load": true,
+        "pages": 1
+      },
+      {
+        "excerpt": "sacrifice-percussion",
+        "bars": [
+          68,
+          77
+        ],
+        "parts": 6,
+        "verovio_load": true,
+        "pages": 1
+      },
+      {
+        "excerpt": "breath-and-sacrifice",
+        "bars": [
+          60,
+          67
+        ],
+        "parts": 8,
+        "verovio_load": true,
+        "pages": 1
+      },
+      {
+        "excerpt": "final-tutti",
+        "bars": [
+          92,
+          94
+        ],
+        "parts": 28,
+        "verovio_load": true,
+        "pages": 1
+      }
+    ]
+  }
+}
